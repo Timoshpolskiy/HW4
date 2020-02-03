@@ -1,0 +1,13 @@
+.canvas {
+  width: auto;
+  margin: 10px auto;
+  text-align: center;
+}
+
+#canvasview {
+  border: 1px solid black;
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
